@@ -1,0 +1,118 @@
+# Day 1 — AI Fundamentals 🤖
+
+## 📚 What I Learned
+
+Today I learned the fundamentals of Artificial Intelligence and how AI models work.
+
+### 1. Artificial Intelligence (AI)
+
+AI is a field of computer science that enables machines to perform tasks that normally require human intelligence.
+
+Examples:
+
+* Understanding language
+* Recognizing images
+* Making predictions
+* Solving problems
+
+### 2. Machine Learning (ML)
+
+Machine Learning is a subset of AI where systems learn patterns from data and use those patterns to make predictions or decisions without being explicitly programmed for every rule.
+
+### 3. Deep Learning
+
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers to learn complex patterns from data.
+
+### 4. Generative AI
+
+Generative AI refers to AI systems that can generate new content such as:
+
+* Text
+* Images
+* Audio
+* Video
+* Code
+
+## 🧠 AI Model — Basic Flow
+
+```text
+Input / Prompt
+      ↓
+Trained AI Model
+      ↓
+Processing
+      ↓
+Output
+```
+
+For example:
+
+**Input:**
+"Write a Java program to check whether a number is prime."
+
+**Model:**
+Processes the request using patterns learned during training.
+
+**Output:**
+A Java program that checks whether a number is prime.
+
+## 🏋️ Training vs Prompt
+
+One important concept I learned today:
+
+Training an AI model and asking the model a question are different things.
+
+```text
+Large Amount of Data
+        ↓
+     Training
+        ↓
+   Trained Model
+        ↓
+    User Prompt
+        ↓
+   Model Processes
+        ↓
+      Output
+```
+
+The model is already trained before I ask my question. My prompt does not simply retrain the model from scratch.
+
+## 🌎 Real-World Examples
+
+| Application                            | AI Concept              |
+| -------------------------------------- | ----------------------- |
+| Netflix movie recommendations          | Machine Learning        |
+| Cat/Dog image recognition              | Deep Learning           |
+| ChatGPT generating a story             | Generative AI           |
+| Self-driving car detecting pedestrians | AI / ML / Deep Learning |
+
+## 🎯 What I Practiced
+
+I learned to identify:
+
+* Input
+* AI model
+* Output
+* Machine Learning
+* Deep Learning
+* Generative AI
+
+### Example
+
+**Prompt:**
+"Create a realistic image of a golden retriever sitting on a beach at sunset."
+
+**Input:** The prompt
+
+**AI Type:** Generative AI
+
+**Output:** A generated image matching the prompt.
+
+## 💡 Key Takeaway
+
+> AI is the broader field, Machine Learning is a way of building AI systems that learn from data, Deep Learning uses neural networks to learn complex patterns, and Generative AI creates new content.
+
+## ✅ Day 1 Status
+
+**Completed — 60 Days of AI 🚀**
