@@ -138,4 +138,4 @@ By the end of this challenge, I aim to have:
 
 This repository is more than just notes—it's a public record of my commitment to continuous learning, consistent practice, and building real-world AI solutions.
 
-> **"Learn. Build. Share. Repeat.."** 🚀
+> **"Learn. Build. Share. Repeat..."** 🚀
