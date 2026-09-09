@@ -2,7 +2,7 @@
 
 Welcome to my **AI Mastery – 60 Days Challenge**!
 
-This repository documents my journey of learning **Artificial Intelligence** from the ground up. Over the next 60 days, I will learn AI fundamentals, Machine Learning, Deep Learning, Generative AI, and build real-world AI projects while sharing my progress through GitHub and LinkedIn.
+This repository documents my journey of learning **Artificial Intelligence** from the ground up. Over the next 60 days, I will learn AI fundamentals, Machine Learning, Deep Learning, Generative AI, and build real-world AI projects while sharing my progress through GitHub and LinkedIn.. 
 
 ---
 
